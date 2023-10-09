@@ -4,3 +4,6 @@
  Doelgroep zijn mijn klasgenoten (mensen van mijn leeftijd).
  Uitleg geven aan de start (wat je moet doen als er voor een input word gemaakt).
  Als er een foute input word gemaakt laat weten wat er wel moet gebeuren (bijvoorbeeld: typt c ipv de keuzes a & b)
+
+## Updates
+- Verzonnen en een beetje geschreven waar ik mijn verhaal over wil hebben.
