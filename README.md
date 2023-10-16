@@ -1,4 +1,4 @@
-# Hier komt mijn tekstbased adventure in JS staan. Dit is mijn eerste beroepsopdracht op het Mediacllege Amsterdam.
+# Hier komt mijn tekstbased adventure in JS staan. Dit is mijn eerste beroepsopdracht op het Mediacollege Amsterdam.
  Het mag geen plaatjes omdat het allemaal met tekst is gemaakt (alleen plaatjes in ASCII art).
  Mag fantasie en realistisch zijn.
  Doelgroep zijn mijn klasgenoten (mensen van mijn leeftijd).
