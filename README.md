@@ -6,4 +6,4 @@
  Als er een foute input word gemaakt laat weten wat er wel moet gebeuren (bijvoorbeeld: typt c ipv de keuzes a & b)
 
 ## Updates
-- Verzonnen en een beetje geschreven waar ik mijn verhaal over wil hebben.
+code af verhaal af
