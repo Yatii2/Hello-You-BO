@@ -5,9 +5,9 @@ let tekst1 = ("Je besluit het herenhuis binnen te gaan. In de foyer vind je een 
 let tekst2 = ("Je blijft buiten en gaat opzoek naar een andere plek, dit herenhuis geeft je geen fijn gevoel. -- Neutraal einde, einde 1/5.");
 let tekst3 = ("Je besluit naar de kamer te gaan. In de kamer vind je een oude, stoffige spiegel. Je ziet een vage reflectie van iets bewegen achter je.");
 let tekst4 = ("Je rent met kaars en al naar buiten en de deur gaat keihard achter je dicht. Goed einde, einde 2/5.");
-let tekst5 = ("Je draait je om en ziet niets. Je voelt echter een ijzige adem in je nek.");
+let tekst5 = ("Je draait je om en ziet niets. Je voelt echter een ijzige adem in je nek. Iets kouds raakt je schouder en een fluisterende stem zegt: 'Vind mijn rust.'");
 let tekst6 = ("Je probeert weg te rennen met geen geluk. Je struikelt over wat je zelf denkt niks te zijn. Iets kouds raakt je schouder en een fluisterende stem zegt: 'Vind mijn rust.'");
-let tekst7 = ("Je besluit dan maar de confrontatie aan te gaan. Iets kouds raakt je schouder en een fluisterende stem zegt: 'Vind mijn rust.'");
+let tekst7 = ("Je besluit dan maar de confrontatie aan te gaan.");
 let tekst8 = ("Hoe graag je ook zou willen bewegen heb je op dit moment geen macht over je lichaam en blijf je staan.");
 let tekst9 = ("De stem fluistert over een vergeten graf in de tuin.")
 let tekst10 = ("Zelfs met al het wil in de wereld heb je geen macht over je lichaam en blijf je stil staan als een standbeeld. De stem fluistert over een vergeten graf in de tuin.")
@@ -67,7 +67,7 @@ if(keuze5 == 1){
 let keuze6 = readlineSync.question('Wat wil je doen? 1.Ga naar buiten en zoek het graf, 2.Probeer te ontsnappen uit het herenhuis. ');
 if(keuze6 == 1){
     console.log(tekst11);
-}else if (keuze == 2){
+}else if (keuze6 == 2){
     console.log(tekst12);
     process.exit();
 }
